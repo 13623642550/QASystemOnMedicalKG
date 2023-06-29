@@ -88,6 +88,7 @@ build_medicalgraph.py：知识图谱入库脚本    　　
 question_classifier.py：问句类型分类脚本  
 question_parser.py：问句解析脚本  
 chatbot_graph.py：问答程序脚本  
+chatbot_graph2.py：问答程序脚本（含可视化窗口）  
 
 # 2.3　支持问答类型
 
